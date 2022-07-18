@@ -1,0 +1,15 @@
+[
+  [
+    [null, ["Banana"]],
+    [["Mango", "Cherry"], ["Orange"], [[["Lemon"]]]],
+    "Apple",
+    ""
+  ],
+  [[null, ["Banana"]], [["289", "600"], ["123"], [[[""]]]], "Apple", ""],
+  [
+    "undefined",
+    "Mango",
+    "Apple",
+    [[null, ["mejia"]], [["antonio", "edwin"], ["ca"], [[["12"]]]], "45", ""]
+  ]
+]
